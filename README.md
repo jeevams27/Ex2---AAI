@@ -1,5 +1,5 @@
-<H3>Name: Paul Andrew D</H3>
-<H3>Register No: 212221230075</H3>
+<H3>Name: Jeeva MS</H3>
+<H3>Register No: 212221230040</H3>
 <H3>Experiment 2</H3>
 <H3>Date: 07.09.24</H3>
 <h1 align =center>Implementation of Exact Inference Method of Bayesian Network</h1>
